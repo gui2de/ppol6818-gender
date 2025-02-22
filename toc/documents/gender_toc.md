@@ -1,1 +1,1 @@
-![TOC](gender_toc.jpg)
+![TOC](../resources/gender_toc.jpg)

@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._* 
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.swp
+*~
+.TemporaryItems/
+.fseventsd/
+.com.apple.timemachine.donotpresent
