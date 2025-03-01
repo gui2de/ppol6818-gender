@@ -15,4 +15,9 @@
 *~
 .TemporaryItems/
 .fseventsd/
+
 .com.apple.timemachine.donotpresent
+.DS_Store
+toc/.DS_Store
+.DS_Store
+toc/.DS_Store
