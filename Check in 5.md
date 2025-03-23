@@ -11,20 +11,20 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
      stereotypically “emotional” presentations (Bruchmüller et al., 2012; Gershon, 2002).
 
 2. Hypotheses:   
-    *H0: The presence of gender information in hypothetical patient cases does not influence the correct diagnosis of ADHD or Panic Disorder.
-    *H1: The presence of gender information in hypothetical patient cases does influence the correct diagnosis of ADHD or Panic Disorder.
+    *H0: The presence of gender information in hypothetical patient cases does not influence the correct diagnosis of ADHD or Panic Disorder
+   
+    *H1: The presence of gender information in hypothetical patient cases does influence the correct diagnosis of ADHD or Panic Disorder
 
-3. Experimental Setting:  
+4. Experimental Setting:  
     * Study Population: psychiatrists in diverse healthcare settings (e.g., private clinics, public hospitals).  
     * Country: Argentina
     * Design: Participants will be shown standardized vignettes for ADHD and Panic Disorder. Each vignette will be randomly assigned a gender identity (cis-het male 
       or cis-het female), while all other information — symptoms, history, and context — will remain identical.
 
-    ** ADHD Vignette Criteria (based on DSM-5):
-     There are three main types of ADHD:
-      - Predominantly inattentive presentation
-      - Predominantly hyperactive/impulsive presentation
-      - Combined presentation
+** ADHD Vignette Criteria (based on DSM-5)
+- Predominantly inattentive presentation
+- Predominantly hyperactive/impulsive presentation
+- Combined presentation
    
    *A diagnosis is based on the presence of persistent symptoms that have occurred over a period of time and are noticeable over the past six months. While ADHD can 
     be diagnosed at any age, this disorder begins in childhood. When considering the diagnosis, the symptoms must be present before the individual is 12 years old 
@@ -63,7 +63,22 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 
      
    * Panic Disorder Vignette Criteria (based on DSM-5):
-      - 
+      - During an attack, several of these symptoms occur in combination:
+      - Palpitations, pounding heart or rapid heart rate
+      - Numbness or tingling
+      - Sweating
+      - Chills or hot flashes
+      - Trembling or shaking
+      - Nausea or abdominal pains
+      - Feeling of shortness of breath or smothering sensations
+      - Feeling detached
+      - Chest pain
+      - Fear of losing control
+      - Feeling dizzy, light-headed or faint
+      - Fear of dying
+      - Feeling of choking
+*Because the symptoms can be quite severe, some people who experience a panic attack may believe they are having a heart attack or some other life-threatening illness. They may go to a hospital emergency department. Panic attacks may be expected, such as a response to a feared object, or unexpected, apparently occurring for no reason. The mean age for onset of panic disorder is 20-24.
+
 
 
 
