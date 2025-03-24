@@ -24,17 +24,18 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 5. Vignette Deisgn
 
 * ADHD Vignette Criteria (based on DSM-5)
-  - Predominantly inattentive presentation
-  - Predominantly hyperactive/impulsive presentation
-  - Combined presentation
+
+   * Three types of ADHD
+    - Predominantly inattentive presentation
+    - Predominantly hyperactive/impulsive presentation
+    - Combined presentation
    
    * A diagnosis is based on the presence of persistent symptoms that have occurred over a period of time and are noticeable over the past six months. While ADHD can 
     be diagnosed at any age, this disorder begins in childhood. When considering the diagnosis, the symptoms must be present before the individual is 12 years old 
     and must have caused difficulties in more than one setting. For instance, the symptoms can not only occur at home.
 
    * Inattentive type
-    Inattentive refers to challenges with staying on task, focusing, and organization. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 
-    years old or older) of the following symptoms occur frequently:
+    Inattentive refers to challenges with staying on task, focusing, and organization. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 years old or older) of the following symptoms occur frequently:
     - Doesn’t pay close attention to details or makes careless mistakes in school or job tasks.
     - Has problems staying focused on tasks or activities, such as during lectures, conversations or long reading.
     - Does not seem to listen when spoken to (i.e., seems to be elsewhere).
