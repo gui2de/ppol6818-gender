@@ -36,34 +36,34 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 
    * Inattentive type
     
-    Inattentive refers to challenges with staying on task, focusing, and organization. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 years old or older) of the following symptoms occur frequently:
+      Inattentive refers to challenges with staying on task, focusing, and organization. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 years old or older) of the following symptoms occur frequently:
     
-    - Doesn’t pay close attention to details or makes careless mistakes in school or job tasks.
-    - Has problems staying focused on tasks or activities, such as during lectures, conversations or long reading.
-    - Does not seem to listen when spoken to (i.e., seems to be elsewhere).
-    - Does not follow through on instructions and doesn’t complete schoolwork, chores or job duties (may start tasks but quickly loses focus).
-    - Has problems organizing tasks and work (for instance, does not manage time well; has messy, disorganized work; misses deadlines).
-    - Avoids or dislikes tasks that require sustained mental effort, such as preparing reports and completing forms.
-    - Often loses things needed for tasks or daily life, such as school papers, books, keys, wallet, cell phone and eyeglasses.
-    - Is easily distracted.
-    - Forgets daily tasks, such as doing chores and running errands. Older teens and adults may forget to return phone calls, pay bills and keep appointments.
+      - Doesn’t pay close attention to details or makes careless mistakes in school or job tasks.
+      - Has problems staying focused on tasks or activities, such as during lectures, conversations or long reading.
+      - Does not seem to listen when spoken to (i.e., seems to be elsewhere).
+      - Does not follow through on instructions and doesn’t complete schoolwork, chores or job duties (may start tasks but quickly loses focus).
+      - Has problems organizing tasks and work (for instance, does not manage time well; has messy, disorganized work; misses deadlines).
+      - Avoids or dislikes tasks that require sustained mental effort, such as preparing reports and completing forms.
+      - Often loses things needed for tasks or daily life, such as school papers, books, keys, wallet, cell phone and eyeglasses.
+      - Is easily distracted.
+      - Forgets daily tasks, such as doing chores and running errands. Older teens and adults may forget to return phone calls, pay bills and keep appointments.
    
    * Hyperactive/impulsive type
     
-    Hyperactivity refers to excessive movement such as fidgeting, excessive energy, not sitting still, and being talkative. Impulsivity refers to decisions or 
-    actions taken without thinking through the consequences. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 years old or older) of the 
-    following symptoms occur frequently:
-    
-    - Fidgets with or taps hands or feet, or squirms in seat.
-    - Not able to stay seated (in classroom, workplace).
-    - Runs about or climbs where it is inappropriate.
-    - Unable to play or do leisure activities quietly.
-    - Always “on the go,” as if driven by a motor.
-    - Talks too much.
-    - Blurts out an answer before a question has been finished (for instance may finish people’s sentences, can’t wait to speak in conversations).
-    - Has difficulty waiting for his or her turn, such as while waiting in line.
-    - Interrupts or intrudes on others (for instance, cuts into conversations, games or activities, or starts using other people’s things without permission). Older 
-      teens and adults may take over what others are doing.
+      Hyperactivity refers to excessive movement such as fidgeting, excessive energy, not sitting still, and being talkative. Impulsivity refers to decisions or 
+      actions taken without thinking through the consequences. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 years old or older) of the 
+      following symptoms occur frequently:
+      
+      - Fidgets with or taps hands or feet, or squirms in seat.
+      - Not able to stay seated (in classroom, workplace).
+      - Runs about or climbs where it is inappropriate.
+      - Unable to play or do leisure activities quietly.
+      - Always “on the go,” as if driven by a motor.
+      - Talks too much.
+      - Blurts out an answer before a question has been finished (for instance may finish people’s sentences, can’t wait to speak in conversations).
+      - Has difficulty waiting for his or her turn, such as while waiting in line.
+      - Interrupts or intrudes on others (for instance, cuts into conversations, games or activities, or starts using other people’s things without permission). Older 
+        teens and adults may take over what others are doing.
 
    * Combined type
      
