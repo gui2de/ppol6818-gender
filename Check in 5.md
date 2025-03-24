@@ -21,16 +21,18 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
     * Design: Participants will be shown standardized vignettes for ADHD and Panic Disorder. Each vignette will be randomly assigned a gender identity (cis-het male 
       or cis-het female), while all other information — symptoms, history, and context — will remain identical.
 
-** ADHD Vignette Criteria (based on DSM-5)
-- Predominantly inattentive presentation
-- Predominantly hyperactive/impulsive presentation
-- Combined presentation
+5. Vignette Deisgn
+
+* ADHD Vignette Criteria (based on DSM-5)
+  - Predominantly inattentive presentation
+  - Predominantly hyperactive/impulsive presentation
+  - Combined presentation
    
-   *A diagnosis is based on the presence of persistent symptoms that have occurred over a period of time and are noticeable over the past six months. While ADHD can 
+   * A diagnosis is based on the presence of persistent symptoms that have occurred over a period of time and are noticeable over the past six months. While ADHD can 
     be diagnosed at any age, this disorder begins in childhood. When considering the diagnosis, the symptoms must be present before the individual is 12 years old 
     and must have caused difficulties in more than one setting. For instance, the symptoms can not only occur at home.
 
-   ** Inattentive type
+   * Inattentive type
     Inattentive refers to challenges with staying on task, focusing, and organization. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 
     years old or older) of the following symptoms occur frequently:
     - Doesn’t pay close attention to details or makes careless mistakes in school or job tasks.
@@ -43,7 +45,7 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
     - Is easily distracted.
     - Forgets daily tasks, such as doing chores and running errands. Older teens and adults may forget to return phone calls, pay bills and keep appointments.
    
-   ** Hyperactive/impulsive type
+   * Hyperactive/impulsive type
     Hyperactivity refers to excessive movement such as fidgeting, excessive energy, not sitting still, and being talkative. Impulsivity refers to decisions or 
     actions taken without thinking through the consequences. For a diagnosis of this type of ADHD, six (or five for individuals who are 17 years old or older) of the 
     following symptoms occur frequently:
@@ -58,11 +60,11 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
     - Interrupts or intrudes on others (for instance, cuts into conversations, games or activities, or starts using other people’s things without permission). Older 
       teens and adults may take over what others are doing.
 
-  ** Combined type
+   * Combined type
      This type of ADHD is diagnosed when both criteria for both inattentive and hyperactive/impulse types are met.
 
      
-   * Panic Disorder Vignette Criteria (based on DSM-5):
+* Panic Disorder Vignette Criteria (based on DSM-5):
       - During an attack, several of these symptoms occur in combination:
       - Palpitations, pounding heart or rapid heart rate
       - Numbness or tingling
@@ -77,7 +79,8 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
       - Feeling dizzy, light-headed or faint
       - Fear of dying
       - Feeling of choking
-*Because the symptoms can be quite severe, some people who experience a panic attack may believe they are having a heart attack or some other life-threatening illness. They may go to a hospital emergency department. Panic attacks may be expected, such as a response to a feared object, or unexpected, apparently occurring for no reason. The mean age for onset of panic disorder is 20-24.
+
+Because the symptoms can be quite severe, some people who experience a panic attack may believe they are having a heart attack or some other life-threatening illness. They may go to a hospital emergency department. Panic attacks may be expected, such as a response to a feared object, or unexpected, apparently occurring for no reason. The mean age for onset of panic disorder is 20-24.
 
 
 
