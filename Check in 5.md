@@ -65,7 +65,7 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 
      
 * Panic Disorder Vignette Criteria (based on DSM-5):
-  - During an attack, several of these symptoms occur in combination:
+  During an attack, several of these symptoms occur in combination:
     - Palpitations, pounding heart or rapid heart rate
     - Numbness or tingling
     - Sweating
@@ -79,8 +79,7 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
     - Feeling dizzy, light-headed or faint
     - Fear of dying
     - Feeling of choking
-
-Because the symptoms can be quite severe, some people who experience a panic attack may believe they are having a heart attack or some other life-threatening illness. They may go to a hospital emergency department. Panic attacks may be expected, such as a response to a feared object, or unexpected, apparently occurring for no reason. The mean age for onset of panic disorder is 20-24.
+  Because the symptoms can be quite severe, some people who experience a panic attack may believe they are having a heart attack or some other life-threatening illness. They may go to a hospital emergency department. Panic attacks may be expected, such as a response to a feared object, or unexpected, apparently occurring for no reason. The mean age for onset of panic disorder is 20-24.
 
 
 
