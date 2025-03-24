@@ -11,9 +11,9 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
      stereotypically “emotional” presentations (Bruchmüller et al., 2012; Gershon, 2002).
 
 2. Hypotheses:   
-    *H0: The presence of gender information in hypothetical patient cases does not influence the correct diagnosis of ADHD or Panic Disorder
+    * H0: The presence of gender information in hypothetical patient cases does not influence the correct diagnosis of ADHD or Panic Disorder
    
-    *H1: The presence of gender information in hypothetical patient cases does influence the correct diagnosis of ADHD or Panic Disorder
+    * H1: The presence of gender information in hypothetical patient cases does influence the correct diagnosis of ADHD or Panic Disorder
 
 4. Experimental Setting:  
     * Study Population: psychiatrists in diverse healthcare settings (e.g., private clinics, public hospitals).  
