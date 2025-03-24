@@ -23,6 +23,22 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 
 5. Vignette Deisgn
 
+* Why Vignette?
+
+    Why is using vignettes more appropriate than standardized patients for our case?
+
+    - Cost-effective and time efficient due to training costs and extensive timeframe from training to implementation (Veloski et al., 2005)
+    - Ability to isolate specific factors influencing decision-making (Evans et al., 2015)
+    - Allows for larger sample sizes due to lower implementation costs and easier 
+    - Given the complexity of ADHD and panic disorder symptoms, the time and financial limits, and the importance of controlling variables and confounding factors, vignette design is a more feasible way than standardized patients.
+    - Previous study and experiment demonstrate that vignette design can be effectively generalized to real-life clinics: “When vignette studies are well designed to test specific questions about judgments and decision-making, they can be highly generalizable to “real life” behavior, while overcoming the ethical, practical, and scientific limitations associated with alternative methods (e.g., observation, self-report, standardized patients, archival analysis).”  (Evans et al., 2014) 
+    - For instance, a recent study in Australia has effectively employed RCT vignette design to measure and evaluate mental health professionals’ attitudes and behaviors towards trials of MDMA-assisted psychotherapy (MDMA-AP) (Wright et al., 2022) 
+    - In real-world clinical settings, multiple factors (e.g., patient behavior, provider-patient interactions) may influence a diagnosis. Vignettes allow us to isolate gender as a factor and determine whether it leads to differences in diagnosing ADHD panic disorder. This is particularly useful in examining potential implicit biases in psychiatric assessments.
+    - Unlike real patient encounters where subjective factors (such as patient behavior, tone, or facial expressions) may vary, vignettes ensure that all participants evaluate the same clinical case. This standardization enhances the study's internal validity.
+    - Ethical and practical feasibility is also one of the considerations: In real clinical settings, it would be unethical and impractical to withhold gender information from a psychiatrist during actual patient assessments. Using hypothetical vignettes allows us to ethically explore whether gender affects diagnosis without compromising patient care.
+    - Our research aligns with The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) diagnostic criteria, our results will be relevant to real-world psychiatric practice. 
+    - There is also a study on ‘The use of experimental vignette studies to identify drivers of variations in the delivery of healthcare: a scoping review’ (Sheringham et al 2021) - This study reviewed experimental vignette studies, which use hypothetical scenarios to examine why healthcare delivery varies.
+
 * ADHD Vignette Criteria (based on DSM-5)
 
    * Three types of ADHD
