@@ -26,9 +26,9 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 * ADHD Vignette Criteria (based on DSM-5)
 
    * Three types of ADHD
-    - Predominantly inattentive presentation
-    - Predominantly hyperactive/impulsive presentation
-    - Combined presentation
+      - Predominantly inattentive presentation
+      - Predominantly hyperactive/impulsive presentation
+      - Combined presentation
    
    * A diagnosis is based on the presence of persistent symptoms that have occurred over a period of time and are noticeable over the past six months. While ADHD can 
     be diagnosed at any age, this disorder begins in childhood. When considering the diagnosis, the symptoms must be present before the individual is 12 years old 
