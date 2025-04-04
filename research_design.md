@@ -107,7 +107,7 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
             8. Feeling detached from surroundings, "like in a dream"  
             9. Intense fear of losing control or "going crazy"  
             10. Fear of dying during these episodes
-
+            
             The patient reports that these episodes:
               11. Occur unpredictably with no clear trigger  
               12. Typically last 15-20 minutes before gradually subsiding  
