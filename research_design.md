@@ -109,10 +109,10 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
             10. Fear of dying during these episodes
             
             The patient reports that these episodes:
-              11. Occur unpredictably with no clear trigger  
-              12. Typically last 15-20 minutes before gradually subsiding  
-              13. Have occurred in various situations (at work, while shopping, at home, and while driving)  
-              14. The first episode occurred approximately four months ago
+                 11. Occur unpredictably with no clear trigger  
+                 12. Typically last 15-20 minutes before gradually subsiding  
+                 13. Have occurred in various situations (at work, while shopping, at home, and while driving) 
+                 14. The first episode occurred approximately four months ago
 
       4. *Behavioral Changes and Concerns*  
             1. Following these episodes, the patient reports:  
