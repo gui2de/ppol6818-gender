@@ -25,24 +25,24 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
     | T3 | Panic Disorder | Female |
     | T4 | Panic Disorder | Male |
 
-  Specified Hypothese:  
-    Hypothesis 1 (Gender Bias in ADHD):  
-      → Test: T1 vs. T2  
-      H₀: Diagnosis rates for ADHD are generally equal across gendered cases.  
-      H₁: Female patients are less likely to be diagnosed correctly with ADHD than male patients.  
-    Hypothesis 2 (Gender Bias in Panic Disorder):  
-      → Test: T3 vs. T4  
-      H₀: Diagnosis rates for Panic Disorder are generally equal across gendered cases.  
-      H₁: Female patients are more likely to be diagnosed with Panic Disorder than male patients.  
-    Pooled Comparisons (Across Disorders):  
-      → Test: (T1 \+ T3) vs. (T2 \+ T4)  
-      H₀: Gender has no overall effect on psychiatric diagnosis accuracy.  
-      H₁: Gender information significantly influences psychiatric diagnosis.
+    Specified Hypothese:  
+      Hypothesis 1 (Gender Bias in ADHD):  
+        → Test: T1 vs. T2  
+        H₀: Diagnosis rates for ADHD are generally equal across gendered cases.  
+        H₁: Female patients are less likely to be diagnosed correctly with ADHD than male patients.  
+      Hypothesis 2 (Gender Bias in Panic Disorder):  
+        → Test: T3 vs. T4  
+        H₀: Diagnosis rates for Panic Disorder are generally equal across gendered cases.  
+        H₁: Female patients are more likely to be diagnosed with Panic Disorder than male patients.  
+      Pooled Comparisons (Across Disorders):  
+        → Test: (T1 \+ T3) vs. (T2 \+ T4)  
+        H₀: Gender has no overall effect on psychiatric diagnosis accuracy.  
+        H₁: Gender information significantly influences psychiatric diagnosis.
 
 5. Vignette Deisgn
 
     Vignette designs offer a cost-effective and time-efficient approach compared to standardized patient methods, largely due to the reduced training costs and shorter time frame from training to implementation (Veloski et al., 2005). This approach allows researchers to isolate specific factors influencing clinical decision-making, facilitating a more precise analysis of variables (Evans et al., 2015). Additionally, vignette methodologies support larger sample sizes, as implementation costs are relatively lower and the logistical demands are less burdensome. Given the complexity of generalized anxiety disorder (GAD) symptoms, combined with financial and temporal constraints, and the necessity of controlling confounding variables, employing a vignette design emerges as a more feasible method than standardized patient approaches. Previous studies indicate that well-constructed vignette studies effectively generalize findings to real-life clinical situations. Evans et al. (2014) emphasize that vignette studies, when designed to address specific questions about clinical judgment and decision-making, can effectively mirror real-life behaviors, thereby overcoming ethical, practical, and scientific limitations inherent in alternative research methods such as direct observation, self-reporting, standardized patient interactions, and archival analysis.  
-   For example, a recent Australian randomized controlled trial (RCT) utilized a vignette design to successfully measure mental health professionals' attitudes and behaviors regarding MDMA-assisted psychotherapy (MDMA-AP) (Wright et al., 2022). In real clinical environments, numerous factors, including patient behavior and provider-patient interactions, can impact diagnostic decisions. Vignettes enable researchers to specifically isolate gender as a variable, evaluating its role in potential diagnostic discrepancies related to GAD. This method is particularly valuable for assessing implicit biases in psychiatric evaluations. Unlike actual patient encounters where subjective elements such as behavior, tone, and facial expressions can vary significantly, vignette designs standardize the clinical scenario presented to all participants. Such consistency significantly enhances internal validity by ensuring that variability in responses is directly attributable to manipulated variables, such as gender, rather than uncontrolled patient-related factors. Ethical and practical considerations also strongly favor the use of vignette studies. In authentic clinical scenarios, withholding gender information from psychiatrists during patient assessments would be both unethical and impractical. However, vignette methodologies ethically enable exploration of the influence of gender on diagnostic decisions without compromising patient care or violating ethical standards. Our research closely aligns with the diagnostic criteria outlined in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), ensuring that findings remain highly relevant and applicable to real-world psychiatric practices. Supporting this methodological approach, Sheringham et al. (2021) conducted a comprehensive review of experimental vignette studies, highlighting their efficacy in identifying and analyzing factors contributing to variations in healthcare delivery.  
+    For example, a recent Australian randomized controlled trial (RCT) utilized a vignette design to successfully measure mental health professionals' attitudes and behaviors regarding MDMA-assisted psychotherapy (MDMA-AP) (Wright et al., 2022). In real clinical environments, numerous factors, including patient behavior and provider-patient interactions, can impact diagnostic decisions. Vignettes enable researchers to specifically isolate gender as a variable, evaluating its role in potential diagnostic discrepancies related to GAD. This method is particularly valuable for assessing implicit biases in psychiatric evaluations. Unlike actual patient encounters where subjective elements such as behavior, tone, and facial expressions can vary significantly, vignette designs standardize the clinical scenario presented to all participants. Such consistency significantly enhances internal validity by ensuring that variability in responses is directly attributable to manipulated variables, such as gender, rather than uncontrolled patient-related factors. Ethical and practical considerations also strongly favor the use of vignette studies. In authentic clinical scenarios, withholding gender information from psychiatrists during patient assessments would be both unethical and impractical. However, vignette methodologies ethically enable exploration of the influence of gender on diagnostic decisions without compromising patient care or violating ethical standards. Our research closely aligns with the diagnostic criteria outlined in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), ensuring that findings remain highly relevant and applicable to real-world psychiatric practices. Supporting this methodological approach, Sheringham et al. (2021) conducted a comprehensive review of experimental vignette studies, highlighting their efficacy in identifying and analyzing factors contributing to variations in healthcare delivery.  
 
   1. **ADHD**  
     1. *Patient Background*  
