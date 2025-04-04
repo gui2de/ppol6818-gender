@@ -50,41 +50,41 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 
       2. *Clinical Presentation*  
           Patient reports lifelong difficulties with organization and task completion. During the initial interview, you observe that the patient:  
-          1. Frequently shifts position in the chair  
-          2. Leaves sentences incomplete before starting new thoughts  
-          3. Appears distracted by minor noises from the hallway  
-          4. Has misplaced their phone twice during the 45-minute session  
-          5. Interrupts you several times with tangential thoughts
+            1. Frequently shifts position in the chair  
+            2. Leaves sentences incomplete before starting new thoughts  
+            3. Appears distracted by minor noises from the hallway  
+            4. Has misplaced their phone twice during the 45-minute session  
+            5. Interrupts you several times with tangential thoughts
 
       3. *Symptom History*  
           The patient describes the following symptoms, which have been present consistently for over six months and occur both at home and at the university  
           1. Inattention Symptoms:  
-            1. Regularly makes careless mistakes in assignments despite understanding the material  
-            2. Struggles to maintain focus during lectures and while studying, often finding \[his/her\] mind wandering after only 10-15 minutes  
-            3. Has difficulty following multi-step instructions in both written and verbal form  
-            4. Consistently misplaces important items like keys, wallet, and assignments  
-            5. Frequently forgets appointments and assignment deadlines despite using reminder apps  
-            6. Describes tasks requiring sustained mental effort as "mentally painful"  
-            7. Has a chaotic organizational system with incomplete assignments scattered across multiple notebooks and digital platforms
+              1. Regularly makes careless mistakes in assignments despite understanding the material  
+              2. Struggles to maintain focus during lectures and while studying, often finding \[his/her\] mind wandering after only 10-15 minutes  
+              3. Has difficulty following multi-step instructions in both written and verbal form  
+              4. Consistently misplaces important items like keys, wallet, and assignments  
+              5. Frequently forgets appointments and assignment deadlines despite using reminder apps  
+              6. Describes tasks requiring sustained mental effort as "mentally painful"  
+              7. Has a chaotic organizational system with incomplete assignments scattered across multiple notebooks and digital platforms
 
           2. *Hyperactivity/Impulsivity Symptoms:*  
-            1. Fidgets constantly, tapping feet or fingers or playing with objects  
-            2. Describes feeling "restless" and "on edge" when required to sit still  
-            3. Often interrupts conversations with friends and family  
-            4. Impulsively makes decisions without considering consequences  
-            5. Has difficulty waiting for turns in conversation or in queues  
-            6. Reports speaking "too much and too fast" according to friends
+              1. Fidgets constantly, tapping feet or fingers or playing with objects  
+              2. Describes feeling "restless" and "on edge" when required to sit still  
+              3. Often interrupts conversations with friends and family  
+              4. Impulsively makes decisions without considering consequences  
+              5. Has difficulty waiting for turns in conversation or in queues  
+              6. Reports speaking "too much and too fast" according to friends
 
           3. *Developmental History*  
-            The patient’s academic records show consistent teacher comments about “not working to potential”, “daydreaming”, and “disorganization”, dating back to elementary school. Report cards consistently noted the patient was “bright but inconsistent” and “needs to pay better attention”. Similar behaviors were reported at home, although the patient was never evaluated. Symptoms were present before age 12, but became more problematic in high school and university as organizational demands increased.
+              The patient’s academic records show consistent teacher comments about “not working to potential”, “daydreaming”, and “disorganization”, dating back to elementary school. Report cards consistently noted the patient was “bright but inconsistent” and “needs to pay better attention”. Similar behaviors were reported at home, although the patient was never evaluated. Symptoms were present before age 12, but became more problematic in high school and university as organizational demands increased.
 
           4. *Functional Impact*  
-            1. Declining grades despite studying "harder than everyone else"  
-            2. Strained relationships due to forgetting plans and interrupting others  
-            3. Significant anxiety about academic performance  
-            4. Difficulty managing time and personal finances  
-            5. Three incomplete courses last semester due to missing assignments  
-            6. Lost two part-time jobs due to tardiness and disorganization
+              1. Declining grades despite studying "harder than everyone else"  
+              2. Strained relationships due to forgetting plans and interrupting others  
+              3. Significant anxiety about academic performance  
+              4. Difficulty managing time and personal finances  
+              5. Three incomplete courses last semester due to missing assignments  
+              6. Lost two part-time jobs due to tardiness and disorganization
 
   2. **Panic Disorder**  
       1. *Patient Background*  
@@ -92,52 +92,51 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
 
       2. *Clinical Presentation*  
           The patient appears visibly anxious during the interview, speaking rapidly and scanning the room periodically. \[He/She\] reports:  
-          1. Four "episodes" in the past month that came "out of nowhere"  
-          2. The most recent episode occurred three days ago while grocery shopping
+            1. Four "episodes" in the past month that came "out of nowhere"  
+            2. The most recent episode occurred three days ago while grocery shopping
 
       3. *Symptom History*  
           The patient describes these episodes as sudden, intense periods of fear that peak within minutes and include the following symptoms:  
-          1. Racing, pounding heartbeat that "feels like it will burst"  
-          2. Shortness of breath and feeling of choking  
-          3. Trembling hands and legs  
-          4. Profuse sweating even in cool environments  
-          5. Tingling sensations in the fingers and around the mouth  
-          6. Chest pain described as "tightness" that radiates across the chest  
-          7. Nausea and stomach discomfort during episodes  
-          8. Feeling detached from surroundings, "like in a dream"  
-          9. Intense fear of losing control or "going crazy"  
-          10. Fear of dying during these episodes
+            1. Racing, pounding heartbeat that "feels like it will burst"  
+            2. Shortness of breath and feeling of choking  
+            3. Trembling hands and legs  
+            4. Profuse sweating even in cool environments  
+            5. Tingling sensations in the fingers and around the mouth  
+            6. Chest pain described as "tightness" that radiates across the chest  
+            7. Nausea and stomach discomfort during episodes  
+            8. Feeling detached from surroundings, "like in a dream"  
+            9. Intense fear of losing control or "going crazy"  
+            10. Fear of dying during these episodes
 
           The patient reports that these episodes:
-
-          11. Occur unpredictably with no clear trigger  
-          12. Typically last 15-20 minutes before gradually subsiding  
-          13. Have occurred in various situations (at work, while shopping, at home, and while driving)  
-          14. The first episode occurred approximately four months ago
+            11. Occur unpredictably with no clear trigger  
+            12. Typically last 15-20 minutes before gradually subsiding  
+            13. Have occurred in various situations (at work, while shopping, at home, and while driving)  
+            14. The first episode occurred approximately four months ago
 
       4. *Behavioral Changes and Concerns*  
-          1. Following these episodes, the patient reports:  
-          2. Persistent worry about experiencing another attack, especially in public  
-          3. Checking heart rate multiple times daily  
-          4. Researching heart conditions and stroke symptoms online  
-          5. Avoiding certain locations where previous attacks occurred  
-          6. Reluctance to drive alone for fear of having an attack while driving  
-          7. Calling out of work twice in the past month due to fear of having an attack  
-          8. Beginning to avoid social gatherings where escape might be difficult
+            1. Following these episodes, the patient reports:  
+            2. Persistent worry about experiencing another attack, especially in public  
+            3. Checking heart rate multiple times daily  
+            4. Researching heart conditions and stroke symptoms online  
+            5. Avoiding certain locations where previous attacks occurred  
+            6. Reluctance to drive alone for fear of having an attack while driving  
+            7. Calling out of work twice in the past month due to fear of having an attack  
+            8. Beginning to avoid social gatherings where escape might be difficult
 
       5. *Functional Impact*  
-          1. Increasing interference with work performance due to anxiety  
-          2. Strained relationships as \[he/she/\] has begun to avoid social situations  
-          3. Sleep disturbance due to worry about having an attack during the night  
-          4. Decreased enjoyment in previously pleasurable activities  
-          5. Constant feeling of being "on edge" waiting for the next attack
+            1. Increasing interference with work performance due to anxiety  
+            2. Strained relationships as \[he/she/\] has begun to avoid social situations  
+            3. Sleep disturbance due to worry about having an attack during the night  
+            4. Decreased enjoyment in previously pleasurable activities  
+            5. Constant feeling of being "on edge" waiting for the next attack
 
       6. *Additional Information*  
-          1. No significant medical history  
-          2. Recent medical examination, including ECG, showed no abnormalities  
-          3. No history of substance abuse  
-          4. No family history of cardiovascular disease  
-          5. Reports increasing caffeine consumption to combat fatigue from poor sleep
+            1. No significant medical history  
+            2. Recent medical examination, including ECG, showed no abnormalities  
+            3. No history of substance abuse  
+            4. No family history of cardiovascular disease  
+            5. Reports increasing caffeine consumption to combat fatigue from poor sleep
 
 6. Primary & Secondary Outcomes:  
    The primary outcome of this study is whether the psychiatrist gives the correct diagnosis (either ADHD or Panic Disorder), coded as a binary variable (1 \= correct diagnosis, 0 \= incorrect diagnosis or other diagnosis). For ADHD, a correct diagnosis must explicitly specify if it is (i) "ADHD – inattentive type", (ii) “ADHD – hyperactive/impulsive type”, or (iii) "ADHD – combined type", as defined in DSM-5. For Panic Disorder, a correct diagnosis must explicitly include "Panic Disorder" as defined in DSM-5.  
