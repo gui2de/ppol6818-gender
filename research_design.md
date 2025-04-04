@@ -109,12 +109,12 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
             10. Fear of dying during these episodes
             
             The patient reports that these episodes:
-                 11. Occur unpredictably with no clear trigger  
-                 12. Typically last 15-20 minutes before gradually subsiding  
-                 13. Have occurred in various situations (at work, while shopping, at home, and while driving) 
-                 14. The first episode occurred approximately four months ago
+               11. Occur unpredictably with no clear trigger
+               12. Typically last 15-20 minutes before gradually subsiding
+               13. Have occurred in various situations (at work, while shopping, at home, and while driving)
+               14. The first episode occurred approximately four months ago
 
-      4. *Behavioral Changes and Concerns*  
+      5. *Behavioral Changes and Concerns*  
             1. Following these episodes, the patient reports:  
             2. Persistent worry about experiencing another attack, especially in public  
             3. Checking heart rate multiple times daily  
@@ -124,14 +124,14 @@ Members (ordered by last name): Jasnoor Anand, Doris Luo, Homar Mauras, Aneysha 
             7. Calling out of work twice in the past month due to fear of having an attack  
             8. Beginning to avoid social gatherings where escape might be difficult
 
-      5. *Functional Impact*  
+      6. *Functional Impact*  
             1. Increasing interference with work performance due to anxiety  
             2. Strained relationships as \[he/she/\] has begun to avoid social situations  
             3. Sleep disturbance due to worry about having an attack during the night  
             4. Decreased enjoyment in previously pleasurable activities  
             5. Constant feeling of being "on edge" waiting for the next attack
 
-      6. *Additional Information*  
+      7. *Additional Information*  
             1. No significant medical history  
             2. Recent medical examination, including ECG, showed no abnormalities  
             3. No history of substance abuse  
